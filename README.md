@@ -1,35 +1,24 @@
-# Unit 11: Express.js Note Taker Application
+# Module 11 Challenge: Express.js Challenge: Note Taker
 ## Description
 
-The objective of this unit was to create a server-side API using the Express.js framework that uses routing to handle server-side responses to client-side URL requests. The application highlights use of three of the most commonly used HTTP methods, including POST, GET, and DELETE to create a working front-end and back-end application.
+In this challenge it was created an app that can help the user to manage some importants note as a To Do List. On the app the user can add notes, read, delete.
 
-In terms of app functionality, it is built to allow users to input and save simple notes or to-do list items, including a title and text for each, and then delete them as necessary.
+The user can insert activities as shopping list, meeting date and time notes, bank compromisses notes, etc.
+
+e.g: Title: Call Bank on Friday
+    Note: Balance account books by end of day Monday.
+
+
 
 ## Table of Contents
 
 - [Screenshot](#screenshot)
 - [Deployed Application](#deployed-application)
-- [Credits](#credits)
-- [License](#license)
 
 ## Screenshot
-This is a screenshot of the front-end application.
-![Note Taker Application Screenshot](./Assets/Note-Taker-App_Screenshot.png)
+Screen Shot of the front-end application.
+![Note Taker Application Screenshot](./Assets/note-taker-screen-shot.jpg)
+![Note Taker Application Screenshot](./Assets/note-taker-screen-shot2.jpg)
 
 ## Deployed Application
-Link: https://salty-savannah-39172.herokuapp.com/
-
-## Credits
-- Trilogy Education Services, LLC: https://www.trilogyed.com/
-- Heroku: https://heroku.com
-- NodeJS: https://nodejs.org/en/
-- Express.js: https://expressjs.com/
-- Bootstrap: https://getbootstrap.com/
-- Font Awesome: https://fontawesome.com/
-
-## License
-
-This project was created by James L. Jenks as part of the curriculum for the MSU Coding Boot Camp and Trilogy Education Services.
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-    
+Link: https://week11-note-taker.herokuapp.com/
