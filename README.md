@@ -17,8 +17,8 @@ e.g: Title: Call Bank on Friday
 
 ## Screenshot
 Screen Shot of the front-end application.
-![Note Taker Application Screenshot](./Assets/note-taker-screen-shot.jpg)
-![Note Taker Application Screenshot](./Assets/note-taker-screen-shot2.jpg)
+![Note Taker Application Screenshot](./Assets/note-taker-screenshot.jpg)
+![Note Taker Application Screenshot](./Assets/note-taker-screenshot2.jpg)
 
 ## Deployed Application
 Link: https://week11-note-taker.herokuapp.com/
